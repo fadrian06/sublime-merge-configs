@@ -1,1 +1,11 @@
-{}
+{
+  "auto_diff_style_min_chars": 80,
+  "editor_path": "C:\\ProgramData\\scoop\\apps\\sublime-text\\current\\sublime_text.exe",
+  "font_face": "JetBrainsMono NF",
+  "font_size": 11,
+  "git_binary": "bundled",
+  "tab_size": 2,
+  "theme": "Merge.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+}
