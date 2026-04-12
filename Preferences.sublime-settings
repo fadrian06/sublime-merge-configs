@@ -1,12 +1,14 @@
 {
   "auto_diff_style_min_chars": 80,
   "editor_path": "C:\\ProgramData\\scoop\\apps\\sublime-text\\current\\sublime_text.exe",
-  "font_face": "JetBrainsMono NF",
+  "font_face": "JetBrainsMono NF Medium",
   "font_size": 11,
   "git_binary": "bundled",
   "tab_size": 2,
-  "theme": "Merge.sublime-theme",
+  "theme": "auto",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "update_check": false,
+  "hardware_acceleration": "opengl",
+  "themed_title_bar": true,
 }
